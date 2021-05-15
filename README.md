@@ -1,7 +1,5 @@
 ![image](./img/iamcris.gif)
 
-![](https://komarev.com/ghpvc/?username=cristianescs&color=red&style=flat) 
-
 ## About me
 - 🎓 I'm studying computer engineering at [USJT](https://www.usjt.br/).
 - 💕 I’m interested in Web Development.
