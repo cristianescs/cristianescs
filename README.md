@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
        alt="WhatsApp">
 </a>
-<a href="https://github.com/cristianescs">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-       alt="GitHub">
+<a href="https://codepen.io/cristiane-silva">
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
+       alt="Codepen">
 </a>
 
 ## About me
