@@ -1,4 +1,4 @@
-![image](./img/iamcris.gif)
+![image](./img/github-img.gif)
 
 <a href="https://www.linkedin.com/in/cristianescs/">
   <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
