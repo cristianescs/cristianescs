@@ -1,7 +1,7 @@
 ![image](./img/github-img.gif)
 
 <a href="https://www.linkedin.com/in/cristianescs/">
-  <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"
        alt="LinkedIn">
 </a>
 
@@ -11,9 +11,8 @@
 </a>
 
 ## About me
-- 🎓 I'm studying computer engineering at [USJT](https://www.usjt.br/).
-- 💕 I’m interested in Web Development.
-- 💻 I’m currently learning HTML, CSS and JavaScript.
+- 🎓 Bachelor's degree in Computer Engineering from [São Judas Tadeu University](https://www.usjt.br/).
+- 💻 Currently learning HTML, CSS (SASS, Bootstrap) and JavaScript (JQuery, React).
 - 🗣 I speak Portuguese and English.
 - 📌 São Paulo, Brazil
 
